@@ -11,7 +11,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 class TopicSchemaTest {
-
     @Test
     @Timeout(1)
     public void whenSingleReceiver() throws InterruptedException {
