@@ -22,3 +22,4 @@ public class SocketReceiver implements Receiver {
         out.flush();
     }
 }
+

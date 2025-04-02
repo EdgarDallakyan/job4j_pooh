@@ -25,3 +25,4 @@ public class TextReceiver implements Receiver {
         count.countDown();
     }
 }
+

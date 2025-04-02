@@ -23,3 +23,4 @@ public class Condition {
         return flag;
     }
 }
+

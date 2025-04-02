@@ -5,3 +5,4 @@ public interface Schema extends Runnable {
 
     void publish(Message message);
 }
+

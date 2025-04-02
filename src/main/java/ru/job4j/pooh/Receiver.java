@@ -5,3 +5,4 @@ public interface Receiver {
 
     void receive(String text);
 }
+
