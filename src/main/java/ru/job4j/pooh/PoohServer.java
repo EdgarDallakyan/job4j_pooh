@@ -29,8 +29,6 @@ public class PoohServer {
             while (!server.isClosed()) {
                 Socket socket = server.accept();
                 handleClient(socket);
-
-
             }
         } catch (Exception e) {
             e.printStackTrace();
