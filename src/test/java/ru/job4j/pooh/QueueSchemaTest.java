@@ -120,4 +120,5 @@ class QueueSchemaTest {
         assertThat(secondOut.size()).isEqualTo(1);
         assertThat(secondOut.iterator().next()).isIn("23", "20");
     }
+
 }

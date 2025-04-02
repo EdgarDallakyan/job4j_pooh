@@ -21,5 +21,6 @@ public class SocketReceiver implements Receiver {
         out.println(text);
         out.flush();
     }
+
 }
 

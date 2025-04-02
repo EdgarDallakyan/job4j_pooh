@@ -24,5 +24,6 @@ public class TextReceiver implements Receiver {
         out.add(text);
         count.countDown();
     }
+
 }
 

@@ -22,5 +22,6 @@ public class Condition {
     boolean check() {
         return flag;
     }
+
 }
 
